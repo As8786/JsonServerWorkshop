@@ -1,0 +1,30 @@
+.App{
+    text-align: center
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width :35%;
+    margin: auto;
+}
+
+form input{
+    margin:10px;
+}
+
+.contact-list{
+    display: flex;
+    justify-content: space-around;
+
+}
+.contact-list .single-contact{
+    width : 20%;
+    border : 7px solid royalblue;
+}
+
+.btn{
+    width :30%;
+    margin: auto;
+    margin-top:7px;
+}
